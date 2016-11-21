@@ -12,4 +12,6 @@ Usage:
 7. $ ./start.bash
 8. $ crontab -e
 
-@reboot /home/minerX/Desktop/Claymore7.4/start.bash
+9. @reboot /home/minerX/Desktop/Claymore7.4/start.bash
+
+10. nano start.bash
