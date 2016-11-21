@@ -15,3 +15,5 @@ Usage:
 9. @reboot /home/minerX/Desktop/Claymore7.4/start.bash
 
 10. nano start.bash
+
+11. sudo apt-get install openssh-server openssh-client
