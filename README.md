@@ -2,11 +2,11 @@
 
 Usage:
 
-0. $ sudo apt get install git
+0. $ sudo apt-get install git -y
 1. $ cd Desktop
 2. $ git clone https://github.com/Zandertaiko/Claymore7.4
 3. $ cd Claymore7.4
-4. $ sudo apt-get install libjansson*
+4. $ sudo apt-get install libjansson* -y
 5. $ chmod +x start.bash
 6. $ chmod +x ethdcrminer64
 7. $ ./start.bash
