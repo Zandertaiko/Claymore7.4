@@ -2,13 +2,13 @@
 
 Usage:
 
-$ cd Desktop
-$ git clone https://github.com/Zandertaiko/Claymore7.4
-$ cd Claymore7.4
-$ sudo apt-get-ubuntu install libjansson*
-$ chmod +x start.bash
-$ chmod +x ethdcrminer64
-$ ./start.bash
+1. $ cd Desktop
+2. $ git clone https://github.com/Zandertaiko/Claymore7.4
+3. $ cd Claymore7.4
+4. $ sudo apt-get-ubuntu install libjansson*
+5. $ chmod +x start.bash
+6. $ chmod +x ethdcrminer64
+7. $ ./start.bash
+8. $ crontab -e
 
-$crontab -e
 @reboot /home/minerX/Desktop/Claymore7.4/start.bash
