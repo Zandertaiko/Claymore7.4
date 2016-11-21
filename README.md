@@ -2,6 +2,7 @@
 
 Usage:
 
+0. $ sudo apt get install git
 1. $ cd Desktop
 2. $ git clone https://github.com/Zandertaiko/Claymore7.4
 3. $ cd Claymore7.4
